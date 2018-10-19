@@ -199,6 +199,13 @@ p{
   font-size: 3vh;
 }
 
+li{
+  font-size: 3vh;
+  list-style:none;
+    
+}
+
+
 /* End párrafos */
 
 
