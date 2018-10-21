@@ -71,10 +71,22 @@ body{
 }
 /* Fin textName */
 
+#encabezado{
+  background: linear-gradient( #acb6e5, #86fde8);
+  width: 100%;
+  height: 30vh;
+}
+
 .perfil{
   margin-top: 10em;
 }
 
+#avatar{
+  -webkit-filter: brightness(50%);
+  filter: brightness(109%);
+  margin-top: 6em;
+  
+}
 
 /* tools */
 .tools{
@@ -101,10 +113,6 @@ font-size: 3vh;
   height: 12em;
 
 }
- #perfil{
-    -webkit-filter: brightness(50%);
-    filter: brightness(109%);
-    }
  
 #contactame{
   margin-top: 10em;
