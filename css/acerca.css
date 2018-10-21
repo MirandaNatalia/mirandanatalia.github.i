@@ -72,19 +72,29 @@ body{
 /* Fin textName */
 
 #encabezado{
-  background: linear-gradient( #acb6e5, #86fde8);
+  
+
   width: 100%;
   height: 30vh;
 }
 
 .perfil{
-  margin-top: 10em;
+  
+  margin-top: 7em;
+}
+
+#fondo{
+  background-image: linear-gradient(to right, red , yellow);
+  width: 10vh;
+  height: 10vh;
 }
 
 #avatar{
+  
   -webkit-filter: brightness(50%);
   filter: brightness(109%);
-  margin-top: 6em;
+  
+
   
 }
 
