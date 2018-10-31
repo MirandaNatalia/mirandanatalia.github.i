@@ -36,3 +36,18 @@ wow.init();
      responsive: true,
    },
  });
+
+
+
+ /* Demo purposes only */
+$(".hover").mouseleave(
+  function() {
+    $(this).removeClass("hover");
+  }
+);
+
+
+
+
+
+ 
