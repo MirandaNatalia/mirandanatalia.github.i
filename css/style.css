@@ -274,14 +274,31 @@ h2, h5{
   padding-bottom: 5vh;
 }
 
-/* Img responsive */
+/* Img fondo proyecto keeper */
 #p1{
   max-width: 100%;
     height: auto;
     margin-top: 5vh;   
     background-color: #4770d613;
 }
-/* Fin img responsive */
+/* Img fondo proyecto Keeper */
+
+/* Img fondo proyecto red social*/
+
+#fondoRedsocial{
+  max-width: 100%;
+  height: auto;
+  margin-top: 5vh;   
+  background-color: rgba(59, 221, 213, 0.123);
+}
+
+
+
+/* Img fondo proyecto red social*/
+
+
+
+
 
 /* Title projects */
 h3{
