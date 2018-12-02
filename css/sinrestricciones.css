@@ -229,20 +229,53 @@ body{
   height: 50%;
   margin-top: 5vh;   
   background-color: rgb(240, 240, 240);
-  
 
 }
 /* fin fondo check */
 
    /*=====  Fin imagen  sketch  ======*/
 
+   /* fondo prototipo 1 */
+
+   #fondoPrototipo1{
+    max-width: 200%;
+    height: 80%;
+    margin-top: 5vh;   
+    background-color: rgba(214, 243, 191, 0.411);
+   }
+
+   /* fondo final prototipo 1 */
   
-  #prototype{
-    max-height: 500px;
-    margin-top: 8vh;
-    margin-bottom: 10vh;
-    padding-bottom: 10vh;
-  }
+
+
+
+
+
+  /*-----DESPLAZAMIENTO IMAGEN SCROLL-----*/
+.scrollme:hover {
+  -webkit-transition: background-position 4s linear 0s;
+  -moz-transition: background-position 4s linear 0s;
+  transition: background-position 4s linear 0s;
+  background-position: center bottom;
+ /*El valor 4s (segundos) es el tiempo que tarda la imagen
+ en desplazarse de principio a fin, por lo que las capturas
+ de pantalla más largas se desplazan más rápido*/
+ }
+ 
+ .scrollme {
+  min-height: 20px;
+  display: block;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  position: relative;
+  -webkit-transition: background-position 1.5s ease-out 0.5s;
+  -moz-transition: background-position 1.5s ease-out 0.5s;
+  transition: background-position 1.5s ease-out 0.5s;
+ /*The ease-out 0.5s es el tiempo que pasa hasta que vuelva
+ a desplazarse a su posición original*/
+ }
+ 
   
   
   
