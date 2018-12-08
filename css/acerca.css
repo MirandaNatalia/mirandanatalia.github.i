@@ -4,6 +4,7 @@ body{
   
 }
 
+
 /* Nav bar */
 @media (min-width: 768px) {
   .view {
@@ -127,6 +128,14 @@ font-size: 3vh;
 #UX{
   margin-top: 6em;
 }
+
+
+
+
+
+
+
+
 
 
 .footer-color{
