@@ -365,10 +365,6 @@ h3{
 	background-color: #fff;
 	background-color: var(--color-bg);
 	margin-top: 10vh;
-
-
-	
-	
 }
 
 
@@ -524,7 +520,7 @@ main {
 	width: 100%;
 	height: 100%;
 	background: var(--grid-item-bg);
-	background-image:linear-gradient(rgba(86, 217, 202, 0.363),rgba(147, 50, 179, 0.151));
+	
 }
 
 .grid__item-img {
@@ -638,7 +634,7 @@ main {
 	padding: 0 5vw;
 	white-space: nowrap;
 	grid-area: 1 / 1 / 1 / 1;
-	color: #6e00d7;
+	color: #9232B3;
 }
 
 .content__item-title > span {
@@ -655,8 +651,9 @@ main {
 
 .content__item-text {
 	text-align: justify;
-	max-width: 800px;
-	margin: 0 auto;
+	
+	margin-top: 4vh;
+ 
 }
 
 .content__item-text p {
@@ -755,7 +752,7 @@ main {
 		font-size: 3vw;
 	}
 	.content__item-text {
-  		column-count: 2;
+  		column-count: 1;
   		column-gap: 20px;
   	}
 	.content__item-img {
@@ -771,9 +768,47 @@ main {
 }
 
 
+/*=====  parrafo y titulo desafios  ======*/
+.line-left {
+	content: '';
+	position: absolute;
+	left: 3vh;
+	top: 6vh;
+	background: #9232B3;
+	height: .1em;
+	width: 1.2em;
+}
+
+
+.line-desafíos {
+	content: '';
+	position: absolute;
+	left: 3vh;
+	top: 12vh;
+	background: #9232B3;
+	height: .1em;
+	width: 1.2em;
+}
+
+.Tools{
+	list-style:none;
+	
+    
+}
+
+.entendimiento{
+	margin-top: 6em;
+}
+
+/*=====  video zapping TV ======*/
+
+
+
+
+
+
 
 /*=====  footer  ======*/
-
 
 .footer-color{
   background-color: rgba(195, 199, 202, 0.274);
