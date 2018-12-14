@@ -444,11 +444,11 @@ main {
 }
 
 .title__name{
-	font-size: 2rem;
+	font-size: 2em;
 	margin-top: 0vh;
 	margin-left: 3em;
 	font-weight: 400;
-	letter-spacing: 10px;
+	
 	
 
 }
@@ -557,7 +557,7 @@ main {
 	position: absolute;
 	right: 0;
 	bottom: 0;
-	font-size: 2.65rem;
+	font-size: 2.40rem;
 	margin: 0 0 0.15rem;
 }
 
@@ -739,14 +739,14 @@ main {
 		left: 0;
 	}
 	.title__sub-works {
-		display: block;
+		
 	}
 	.grid__item-number {
 		right: -2.45rem;
 	}
 	.grid__item-title {
 		margin-left: -0.25rem;
-		letter-spacing: 2px;
+		letter-spacing: 1px;
 	}
 	.content__item-subtitle {
 		font-size: 3vw;
