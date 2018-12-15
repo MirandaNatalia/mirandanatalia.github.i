@@ -23,7 +23,8 @@
 	background-color: #fff;
 	background-color: var(--color-bg);
 	margin-top: 10vh;
-	background-image:linear-gradient(rgba(50, 175, 179, 0.185),rgba(86, 217, 202, 0.527));
+	background-image:linear-gradient(#c2f3f3,#9eecf1);
+	color: #49494d;
 }
 
 
