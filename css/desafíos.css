@@ -11,7 +11,7 @@
 
 .desafios{
 
-    --color-bg: #31bcce8c;
+    --color-bg: #e8e8e8;
     --color-link: #2a5461;
     --color-link-hover: #18baeb;
     --color-info: #272526;
@@ -23,7 +23,7 @@
 	background-color: #fff;
 	background-color: var(--color-bg);
 	margin-top: 10vh;
-	
+	background-image:linear-gradient(rgba(147, 50, 179, 0.096),rgba(86, 217, 202, 0.363));
 }
 
 
