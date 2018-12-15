@@ -12,10 +12,10 @@
 .desafios{
 
     --color-bg: #e8e8e8;
-    --color-link: #ec1752;
-    --color-link-hover: #eb1851;
+    --color-link: #2a5461;
+    --color-link-hover: #18baeb;
     --color-info: #272526;
-    --grid-item-bg: #f1f1f1;
+    --grid-item-bg: #ffffff;
     --color-close: #ec1752;
 	min-height: 100vh;
 	color: #57585c;
@@ -320,7 +320,8 @@ main {
 
 .content__close {
 	position: absolute;
-	top: 0.75rem;
+	font-size: 1.5em;
+	top: 0.80rem;
 	left: 50%;
 	z-index: 10000;
 	transform: translateX(-50%);
@@ -329,16 +330,22 @@ main {
 	margin: 0;
 	padding: 0;
 	cursor: pointer;
-	color: #6e00d7;
+	color: #337488;
+	
+	
 	
 }
 
+
 .content__close:focus {
 	outline: none;
+	
+	
 }
 
 .content__item--current ~ .content__close {
 	pointer-events: auto;
+	
 }
 
 .content__indicator {
