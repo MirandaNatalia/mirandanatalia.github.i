@@ -17,12 +17,13 @@
     --color-info: #272526;
     --grid-item-bg: #ffffff;
     --color-close: #ec1752;
-	min-height: 100vh;
+	min-height: 80vh;
 	color: #57585c;
 	color: var(--color-text);
 	background-color: #fff;
 	background-color: var(--color-bg);
 	margin-top: 10vh;
+	background-image:linear-gradient(rgba(147, 50, 179, 0.342),rgba(86, 217, 202, 0.363));
 }
 
 
@@ -60,14 +61,8 @@ main {
 	position: relative;
 }
 
-.frame {
-	position: relative;
-	padding: 1.5rem 2.5rem;
-}
 
-.frame a:hover {
-	color: #4c33f7;
-}
+
 
 /* Header */
 .codrops-header {
@@ -84,16 +79,8 @@ main {
 	padding: 0;
 }
 
-.info {
-	margin: 0 0 0 1.25em;
-	color: var(--color-info);
-}
 
-.github {
-	display: block;
-	margin: 0.15em 0.15em 0.15em 0.5em;
-	padding: 0.25em;
-}
+
 
 .title {
 	text-align: center;
@@ -106,11 +93,8 @@ main {
 	margin-top: 0vh;
 	margin-left: 3em;
 	font-weight: 400;
-	
-	
 
 }
-
 
 .title__sub {
 	font-weight: normal;
