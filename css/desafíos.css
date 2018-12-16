@@ -357,7 +357,7 @@ main {
 	top: calc(100vh - 6rem);
 	left: calc(50% - 0.75rem);
 	display: none;
-	color: #6e00d7;
+	color: #18baeb;
 }
 
 .js .content__item-title > span,
