@@ -305,41 +305,19 @@ main {
 
 .content__close {
 	position: fixed;
-	left: 90%;
-	z-index: 10000;
-	box-shadow: 0 12px 22px 2px rgba(179, 173, 179, 0.616);
+	left: 95%;
 	transform: translateX(-50%);
-	background: none;
-	border: 0;
-	margin-bottom: 0.5em;
+	margin-bottom: 0em;
 	cursor: pointer;
-	width:30px;
-	height:30px;
-	padding:30px;
-	-webkit-border-radius: 50px;
-	-moz-border-radius: 50px;
-	border-radius: 50px;
-	text-transform: uppercase;
-	
-
+	padding:0px;
   }
-  .boton:hover{
-	opacity: 0.50;
-	-moz-opacity: .50;
-	filter:alpha (opacity=50);
-  }
-
-  #arrow{
-    font-size: 1.5em;
-    color: #ffffff;
-    margin: -10vh;
-	margin-top: -19vh;
-	
-	
-	
-	
-}
   
+
+
+  /*
+   margin: -10vh;
+	margin-top: -19vh;
+	*/
 
 .content__close:focus { b
 	outline: none;
