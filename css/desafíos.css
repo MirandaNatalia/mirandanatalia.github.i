@@ -305,7 +305,7 @@ main {
 
 .content__close {
 	position: fixed;
-	left: 95%;
+	left: 94%;
 	transform: translateX(-50%);
 	margin-bottom: 0em;
 	cursor: pointer;
