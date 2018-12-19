@@ -116,8 +116,9 @@
 	font-size: 8vw;
 	margin: 0;
 	pointer-events: none;
-	bottom: 45%;
+	bottom: 41%;
 	left: 35%;
+	font-family: 'Inconsolata', monospace;
 }
 
 .title--left {
@@ -149,8 +150,8 @@
 
 
 .deco-bg--color-4 {
-	background: -webkit-linear-gradient(bottom, #acda9c 90%, transparent 90%, transparent);
-	background: linear-gradient(to top, #acda9c 90%, transparent 90%, transparent);
+	background: -webkit-linear-gradient(bottom, #afee86 90%, transparent 90%, transparent);
+	background: linear-gradient(to top, #ffb857 90%, transparent 90%, transparent);
 }
 
 
@@ -176,13 +177,14 @@
 	}
 	.text {
 		width: 80%;
-		left: 29%;
+		left: 20%;
 		bottom: auto;
-		top: 55%;
+		top: 59%;
 		
 	}
 	.title {
 		font-size: 10vw;
+		
 		
 	}
 }
