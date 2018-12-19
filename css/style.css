@@ -151,9 +151,10 @@ button.scroll_down:before {
 h1{
   font-size: 70px;
   font-weight: 200;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-style: bold;
-  letter-spacing: 10px;
+  letter-spacing: 0.1em;
+  
 }
 .text-title{
   font-size: 3vh;

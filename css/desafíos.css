@@ -9,7 +9,7 @@
 =============================================*/
 
 
-.desafios{
+#desafios{
 
     --color-bg: #e8e8e8;
     --color-link: #2a5461;
@@ -310,8 +310,25 @@ main {
 	margin-bottom: 0em;
 	cursor: pointer;
 	padding:0px;
+	
+
   }
   
+  /*hover btn-back*/
+ 
+  
+ 
+
+  svg #btn-back:hover {
+	fill: pink;
+	cursor: pointer;
+	stroke-dashoffset: 0;
+	stroke-dasharray: 700;
+	stroke-width: 10;
+  }
+
+  
+  /*Fin hover btn-back*/
 
 
   /*
