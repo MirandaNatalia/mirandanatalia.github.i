@@ -84,7 +84,7 @@ body{
   margin-top: 7em;
 }
 
-li{
+.investigaciónSH{
   font-size: 2.6vh;
 }
 
@@ -202,27 +202,7 @@ font-size: 3vh;
 		inset 1px 1px 4px rgba(0,0,0,0.5),
 		0 2px 3px rgba(0,0,0,0.6);
 }
-h2
-.mb-style-3 .mb-author{
 
-	font-weight: 700;
-	font-size: 18px;
-	color: rgba(188, 147, 200, 1);
-	text-shadow: 0 1px 1px rgba(255,255,255,0.7);
-}
-
-.mb-style-3 cite a{
-	font-family: 'Alegreya', serif;
-	font-weight: 700;
-	font-style: italic;
-	color: #fff;
-	text-shadow: 0 1px 1px rgba(0,0,0,0.3);
-}
-
-.mb-style-3 cite a:hover{
-	color: rgba(188, 147, 200, 1);
-	text-shadow: 0 1px 1px rgba(255,255,255,0.7);
-}
 
 
 /* Media queries */
