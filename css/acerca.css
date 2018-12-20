@@ -85,7 +85,7 @@ body{
 }
 
 li{
-  font-size: 2.4vh;
+  font-size: 2.6vh;
 }
 
 
@@ -204,7 +204,7 @@ font-size: 3vh;
 }
 h2
 .mb-style-3 .mb-author{
-	font-family: 'Alegreya SC', serif;
+
 	font-weight: 700;
 	font-size: 18px;
 	color: rgba(188, 147, 200, 1);
@@ -223,6 +223,23 @@ h2
 	color: rgba(188, 147, 200, 1);
 	text-shadow: 0 1px 1px rgba(255,255,255,0.7);
 }
+
+
+/* Media queries */
+
+@media screen and (max-width: 50em) {
+	.mb-wrap {
+    width: 90vw;
+    height: 60vmax ;
+    margin-bottom: 5em;
+  }
+  
+  .mb-style-3 blockquote p{
+    font-size: 6vw;
+  }
+
+}
+
 
 /* Fin Block Quote*/
 
