@@ -113,10 +113,10 @@
 
 .title {
 	position: absolute;
-	font-size: 8vw;
+	font-size: 4.5vw;
 	margin: 0;
 	pointer-events: none;
-	bottom: 41%;
+	bottom: 12%;
 	left: 35%;
 	font-family: 'Inconsolata', monospace;
 }
@@ -124,23 +124,24 @@
 .title--left {
 	left: auto;
 	right: 35%;
-	font-family: 'Inconsolata', monospace;
+
 }
 
 .text {
-	font-size: 1.15em;
+	font-size: 1.30em;
 	position: absolute;
 	width: 50%;
 	bottom: calc(6% + 8vw);
 	left: 40%;
 	pointer-events: none;
 	font-family: 'Inconsolata', monospace;
+
 }
 
 .text--left {
 	left: 10%;
 	text-align: right;
-	font-family: 'Inconsolata', monospace;
+
 }
 
 .deco-bg {
@@ -150,8 +151,8 @@
 
 
 .deco-bg--color-4 {
-	background: -webkit-linear-gradient(bottom, #afee86 90%, transparent 90%, transparent);
-	background: linear-gradient(to top, #ffb857 90%, transparent 90%, transparent);
+	background: -webkit-linear-gradient(bottom, #e7c472 90%, transparent 90%, transparent);
+	background: linear-gradient(to top, #e7c472 90%, transparent 90%, transparent);
 }
 
 
@@ -176,14 +177,18 @@
 		margin: 0;
 	}
 	.text {
-		width: 80%;
-		left: 20%;
+		font-size: 6vw;
+		width: 90%;
+		left: 3.2%;
 		bottom: auto;
-		top: 59%;
+		top: 55%;
 		
 	}
 	.title {
-		font-size: 10vw;
+		font-size: 7vw;
+		font-weight: 900;
+		bottom: 4.1em;
+		margin-left: 1.7em;
 		
 		
 	}
