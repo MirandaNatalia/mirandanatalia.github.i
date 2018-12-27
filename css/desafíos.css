@@ -479,6 +479,20 @@ main {
   
 }
 
+
+
+  
+ /*Flecha abajo */
+
+ @media (min-width: 320px) and (max-width: 768px) {
+	.flechaDown{
+		 margin-top: 16em;
+		}
+	 
+	 }
+
+
+
 .prototypeDashboard{
 	width: 1200px;
 	height: 500px;
