@@ -480,6 +480,23 @@ main {
 }
 
 
+@media (min-width: 320px) and (max-width: 768px) {
+	#WID{
+		 margin-top: 14em;
+		}
+	 
+	 }
+	 /* Fin Margin top WID */
+ 
+	 
+	/*Flecha abajo */
+ 
+	 @media (min-width: 320px) and (max-width: 768px) {
+		 .flechaDown{
+				margin-top: 16em;
+			 }
+			
+			}
 
 
 .prototypeDashboard{
