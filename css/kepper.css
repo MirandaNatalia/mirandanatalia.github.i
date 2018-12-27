@@ -301,7 +301,7 @@ ul{
 }
 
 
-/*Prototype keeper Media*/
+/*Prototipo navegable Media*/
 @media (min-width: 320px) and (max-width: 768px) {
 .prototypeKepper{
   width: 250px;

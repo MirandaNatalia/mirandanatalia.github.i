@@ -141,9 +141,9 @@ h3{
 
 
   .second-title{
-    font-size: 5vh;
+    font-size: 4.5vh;
     font-weight: 400;
-    margin-left: 8vh;
+    
   }
 
   .leftLine-titulo{
@@ -156,16 +156,23 @@ h3{
     width: 2em;
   }
 
-  .left-line {
+  .line-bottom {
     content: '';
     position: absolute;
     left: 3.2vh;
     top: 17vh;
     background: #9232B3;
-    height: .2em;
+    height: .1em;
     width: 2em;
   }
 
+
+  @media (min-width: 320px) {
+    #line {
+      top: 100%;
+   }
+   
+ }
 
   .intro-line{
     content: '';
@@ -265,7 +272,15 @@ ul{
   padding-bottom: 10vh;
 }
 
-
+/*Prototipo navegable Media*/
+@media (min-width: 320px) and (max-width: 768px) {
+  .prototypeSilvestre{
+    width: 250px;
+    height: 500px;
+    margin-top: 5em;
+   }
+  
+  }
 
 /*=====  footer  ======*/
 
