@@ -301,7 +301,14 @@ ul{
 }
 
 
+/*Prototype keeper Media*/
+@media (min-width: 320px) and (max-width: 768px) {
+.prototypeKepper{
+  width: 250px;
+  height: 500px;
+ }
 
+}
 
 .wow {
   visibility: hidden;
