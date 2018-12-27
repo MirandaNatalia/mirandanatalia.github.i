@@ -201,6 +201,7 @@ h1{
 #whatIdo{
   background-image: linear-gradient(rgba(86, 217, 202, 0.363),#55b9bd13);
   padding-bottom: 5rem;
+
   
 }
 /* Fin gradient seccion 2 */
@@ -226,9 +227,30 @@ h2, h5{
 /* Margin top WID */
 
 #WID{
-  margin-top: 12rem;
+  margin-top: 9em;
 }
-/* Fin Margin top WID */
+
+
+
+
+@media (min-width: 320px) and (max-width: 768px) {
+ #WID{
+    margin-top: 14em;
+   }
+  
+  }
+  /* Fin Margin top WID */
+
+  
+ /*Flecha abajo */
+
+  @media (min-width: 320px) and (max-width: 768px) {
+    .flechaDown{
+       margin-top: 16em;
+      }
+     
+     }
+  
 
 
 /* Parrafo  */
