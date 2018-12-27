@@ -464,24 +464,21 @@ main {
 
 /*protottype dashboard*/
 
-@media screen and (max-width: 50em) {
-	.prototypeDashboard {
-    width: 10vw;
-    height: 60vmax ;
-    
-  }
+@media (min-width: 320px) and (max-width: 768px) {
+	 .Dashboard {
+			width: 100%;
+	}
   
   
 
 }
-
-
 
 
 .prototypeDashboard{
-	width:1000px; 
-	height:1504px;
-
+	width: 1200px;
+	height: 500px;
 }
+
+
 
 /* Fin protottype dashboard*/
