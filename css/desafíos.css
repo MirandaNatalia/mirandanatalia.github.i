@@ -41,6 +41,8 @@ a:focus {
 	outline: none;
 }
 
+
+
 .hidden {
 	position: absolute;
 	overflow: hidden;
@@ -402,9 +404,7 @@ main {
 		top: 0.65rem;
 		left: 0;
 	}
-	.title__sub-works {
-		
-	}
+
 	.grid__item-number {
 		right: -2.45rem;
 	}
@@ -461,3 +461,27 @@ main {
 .entendimiento{
 	margin-top: 6em;
 }
+
+/*protottype dashboard*/
+
+@media screen and (max-width: 50em) {
+	.prototypeDashboard {
+    width: 10vw;
+    height: 60vmax ;
+    
+  }
+  
+  
+
+}
+
+
+
+
+.prototypeDashboard{
+	width:1000px; 
+	height:1504px;
+
+}
+
+/* Fin protottype dashboard*/
