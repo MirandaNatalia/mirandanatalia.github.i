@@ -159,7 +159,7 @@ h3{
     width: 2em;
   }
 
-  .left-line {
+  .line-bottom {
     content: '';
     position: absolute;
     left: 3.1vh;
@@ -306,8 +306,16 @@ ul{
 .prototypeKepper{
   width: 250px;
   height: 500px;
+  margin-top: 5em;
  }
 
+}
+
+@media (min-width: 320px) {
+  #line {
+    top: 100%;
+ }
+ 
 }
 
 .wow {
