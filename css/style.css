@@ -227,30 +227,27 @@ h2, h5{
 /* Margin top WID */
 
 #WID{
-  margin-top: 9em;
+  margin-top: 8em;
 }
 
-
-
-
 @media (min-width: 320px) and (max-width: 768px) {
- #WID{
-    margin-top: 14em;
+  #WID{
+     margin-top: 14em;
+    }
+   
    }
-  
-  }
-  /* Fin Margin top WID */
-
-  
- /*Flecha abajo */
-
-  @media (min-width: 320px) and (max-width: 768px) {
-    .flechaDown{
-       margin-top: 16em;
+   /* Fin Margin top WID */
+ 
+   
+  /*Flecha abajo */
+ 
+   @media (min-width: 320px) and (max-width: 768px) {
+     .flechaDown{
+        margin-top: 10em;
+       }
+      
       }
-     
-     }
-  
+
 
 
 /* Parrafo  */
@@ -274,11 +271,6 @@ h2, h5{
   left:120px; 
   visibility: visible;
   z-index: 10;
-}
-
-/* Fin imgFinger */
-
-@media only screen and (min-width: 320px) {
 }
 
 /*=====  Fin Sección What I Do ======*/
@@ -363,13 +355,6 @@ h3{
 
 
 /*=====  End of Section projects  ======*/
-
-
-
-
-
-
-
 
 
 
