@@ -309,6 +309,25 @@ h2, h5{
 /* Img fondo proyecto red social*/
 
 
+  /*Media queries Home */
+
+/*Red social text */
+@media (min-width: 320px) and (max-width: 425px) {
+  .redsocialText{
+    margin-top: -40em;
+   }
+  
+  }
+
+  /*red social img */
+    .imgRedsocial{
+   
+     }
+    
+    
+
+
+
 
 
 
