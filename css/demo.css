@@ -160,7 +160,7 @@
 
 /* Adjust the layout for smaller screens */
 
-@media screen and (max-width: 50em) {
+@media  (min-width: 320px) and (max-width: 768px) {
 	.section--intro {
 		min-height: 0;
 	}
