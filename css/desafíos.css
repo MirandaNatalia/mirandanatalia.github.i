@@ -470,6 +470,18 @@ main {
 	margin-top: 6em;
 }
 
+
+
+/*Prototipo E-commerce*/
+@media (min-width: 320px) and (max-width: 768px) {
+	.prototypeEcommerce{
+		width: 250px;
+		height: 200px;
+		margin-top: 5em;
+	 }
+	
+	}
+
 /*protottype dashboard*/
 
 @media (min-width: 320px) and (max-width: 768px) {
@@ -478,7 +490,6 @@ main {
 	}
   
 }
-
 
 
 
