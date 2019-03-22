@@ -150,10 +150,10 @@ button.scroll_down:before {
 /* Text Name */
 h1{
   font-size: 70px;
-  font-weight: 200;
-  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
   font-style: bold;
-  letter-spacing: 0.1em;
+ 
+
   
 }
 .text-title{
@@ -188,7 +188,7 @@ h1{
 .text-name{
   position: absolute;
   margin-top: 10em;
-  color:whitesmoke;
+ 
 }
 /* Fin textName */
 
