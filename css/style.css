@@ -298,9 +298,18 @@ h2, h5{
   max-width: 100%;
     height: auto;
     margin-top: 5vh;   
-    background-color: #4770d613;
+    background-color: #67c2ab18;
 }
 /* Img fondo proyecto Keeper */
+
+/* Img fondo POS */
+#fondoPos{
+  max-width: 100%;
+    height: auto;
+    margin-top: 5vh;   
+    background-color: #4770d60a;
+}
+/* Img fondo POS */
 
 /* Img fondo proyecto red social*/
 
@@ -308,7 +317,7 @@ h2, h5{
   max-width: 100%;
   height: auto;
   margin-top: 5vh;   
-  background-color: rgba(59, 221, 213, 0.123);
+  background-color: #3bddd523;
 }
 
 
