@@ -240,58 +240,8 @@ ul{
 
 
 
-/* videos keeper */
-.videos-keeper{
-  margin-top: 15vh;
-}
-
-.gastos{
-  margin-top: 26vh;
-}
 
 
-/* fin videos keeper */
-
-
-
-
-
-
-
-/*=============================================
-=            Background logo  keeper       =
-=============================================*/
-.fondo-diseño{
-  background-color: #56D9C9;
-  width: 100%;
-  height: 58vh;
-  margin-top: 10vh;
-
-}
-
-/*=====  End of Background logo  ======*/
-
-
-/*=============================================
-=            User Flow            =
-=============================================*/
-.userFlow{
-  background-color: rgba(122, 118, 117, 0.157);
-  width: 100%;
-  height: 220vh;
-  margin-top: 10vh;
- 
-}
-
-/*=====  End of User Flow  ======*/
-
-
-/* video */
-.imgIphone6{
-  background-color: white;
-  
-  
-}
 
 #prototype{
   max-height: 500px;
