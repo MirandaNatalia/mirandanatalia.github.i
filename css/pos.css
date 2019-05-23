@@ -303,7 +303,7 @@ ul{
 
 /*Prototipo navegable Media*/
 @media (min-width: 320px) and (max-width: 768px) {
-.prototypeKepper{
+.prototypePOS{
   width: 250px;
   height: 500px;
   margin-top: 5em;
